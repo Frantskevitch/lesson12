@@ -1,0 +1,11 @@
+^[[0;32mInfo: Using configured environment 'production'^[[0m
+^[[0;32mInfo: Retrieving pluginfacts^[[0m
+^[[0;32mInfo: Retrieving plugin^[[0m
+^[[0;32mInfo: Loading facts^[[0m
+^[[0;32mInfo: Caching catalog for puppet.minsk.epam.com^[[0m
+^[[0;32mInfo: Applying configuration version '1474458808'^[[0m
+^[[mNotice: /Stage[main]/Mysql::Server::Install/Package[mysql-server]/ensure: created^[[0m
+^[[mNotice: /Stage[main]/Mysql::Server::Service/Service[mysqld]/ensure: ensure changed 'stopped' to 'running'^[[0m
+^[[0;32mInfo: /Stage[main]/Mysql::Server::Service/Service[mysqld]: Unscheduling refresh on Service[mysqld]^[[0m
+^[[mNotice: Applied catalog in 5.80 seconds^[[0m
+
